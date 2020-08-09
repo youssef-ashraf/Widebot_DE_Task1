@@ -70,5 +70,5 @@ for i in range(100):
       count = count + 0
             else:
       count = count + 1
-
+  visited = []
 print(count)"""
